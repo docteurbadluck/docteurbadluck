@@ -8,8 +8,6 @@
 ---
 
 ## 🚀 About Me
-I started out prototyping interactive projects with microcontrollers in art school,  
-and evolved into building larger-scale software systems at 42.
 
 I enjoy working at the intersection of:
 - ⚡ Hardware & software  

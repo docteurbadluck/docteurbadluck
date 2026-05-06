@@ -20,7 +20,10 @@ I enjoy working at the intersection of:
 - **Languages:** 
 ![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![cplusplus](http://img.shields.io/badge/-C++-03234B?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff) C, C++, Python, MicroPython, TypeScript, SQL  
+![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![MicroPython](https://img.shields.io/badge/-MicroPython-2E8B57?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+ ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Tools:** Git, Docker / Docker Compose  
 - **Focus:** Embedded systems, microcontrollers, prototyping
 - 

@@ -29,4 +29,4 @@ I enjoy working at the intersection of:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Claude](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square&logoColor=white)
-- **Focus:** Embedded systems, microcontrollers, prototyping
+- **Focus:** Embedded systems · Microcontrollers · Hardware prototyping

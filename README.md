@@ -17,8 +17,15 @@ I enjoy working at the intersection of:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Python, MicroPython, TypeScript, SQL  
+- **Languages:** 
+![c](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![cplusplus](http://img.shields.io/badge/-C++-03234B?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![python](http://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff) C, C++, Python, MicroPython, TypeScript, SQL  
 - **Tools:** Git, Docker / Docker Compose  
-- **Focus:** Embedded systems, microcontrollers, prototyping  
-
----
+- **Focus:** Embedded systems, microcontrollers, prototyping
+- 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)

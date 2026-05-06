@@ -3,7 +3,7 @@
 
 💻 Student at 42 Berlin  
 🔌 Passionate about electronics, robotics, and low-level programming  
-🎯 Currently looking to join an embedded systems team to ship real hardware  
+🎯 Currently looking to join an embedded systems team
 
 ---
 

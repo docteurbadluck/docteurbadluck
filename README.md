@@ -24,11 +24,9 @@ I enjoy working at the intersection of:
 ![MicroPython](https://img.shields.io/badge/-MicroPython-2E8B57?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- **Tools:** Git, Docker / Docker Compose  
-- **Focus:** Embedded systems, microcontrollers, prototyping
-- 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)
+- **Tools:** 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square&logoColor=white)
+- **Focus:** Embedded systems, microcontrollers, prototyping

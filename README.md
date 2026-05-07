@@ -1,18 +1,18 @@
 # Hey hi, I'm Théo
 
-👨‍💻 My journey into programming started through electronics and experimentation.
+👨‍💻 I **started programming** through **electronics** and **experimentation**.
 
-🎨 While studying art, I began prototyping with microcontrollers and quickly became fascinated by the intersection between creativity, hardware, and software. What started as curiosity turned into a passion for understanding how machines work — from low-level code to physical systems.
+🎨 While studying **art**, I began prototyping with **microcontrollers** and quickly became fascinated by the intersection between **creativity, hardware, and software**. What started as curiosity turned into a passion for **understanding how machines work**.
 
-⚡ That curiosity eventually led me to 42 Berlin, where I now build projects in C/C++, learn systems programming, and develop software with a strong hands-on approach.
+⚡ That curiosity eventually led me to **42 Berlin**, where I now build projects in **C/C++**, learn **systems programming**, and develop software with a strong **hands-on approach**.
 
-🔧 Along the way, I worked as a lab assistant, build prototypes with micro controler. I enjoy solving technical problems, learning by building, and turning ideas into working systems.
+🔧 Along the way, I worked as a **lab assistant**, building prototypes with **microcontrollers**. I enjoy **solving technical problems**, **learning by building**, and turning ideas into **working systems**.
 
-Currently I am..
+## Currently I am...
 
-📚 Graduated from 42 Core Curriculum while deepening my interest in embedded systems and low-level development.
+📚 Graduated from the **42 Core Curriculum** while deepening my interest in **embedded systems** and **low-level development**.
 
-🚀 Looking for an opportunity to join an embedded or robotics team and help ship real hardware.
+🚀 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
 
 ## 🛠️ Tech Stack
 

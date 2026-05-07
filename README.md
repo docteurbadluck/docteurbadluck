@@ -1,4 +1,7 @@
-# Hi, I'm Théo Déliot 👋  
+# Hi, I'm Théo
+
+story of my code fast 5 line 
+
 ### 🎨 Creative Coder | Embedded Systems Enthusiast
 
 💻 Student at 42 Berlin  
@@ -33,3 +36,4 @@ I enjoy working at the intersection of:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square&logoColor=white)
 
+[![tdeliot's 42 stats](https://badge.mediaplus.ma/darkblue/tdeliot)](https://github.com/oakoudad/badge42)

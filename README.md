@@ -1,23 +1,18 @@
-# Hi, I'm Théo
+# Hey hi, I'm Théo
 
-story of my code fast 5 line 
+👨‍💻 My journey into programming started through electronics and experimentation.
 
-### 🎨 Creative Coder | Embedded Systems Enthusiast
+🎨 While studying art, I began prototyping with microcontrollers and quickly became fascinated by the intersection between creativity, hardware, and software. What started as curiosity turned into a passion for understanding how machines work — from low-level code to physical systems.
 
-💻 Student at 42 Berlin  
-🔌 Passionate about electronics, robotics, and low-level programming  
-🎯 Currently looking to join an embedded systems team
+⚡ That curiosity eventually led me to 42 Berlin, where I now build projects in C/C++, learn systems programming, and develop software with a strong hands-on approach.
 
----
+🔧 Along the way, I worked as a lab assistant, build prototypes with micro controler. I enjoy solving technical problems, learning by building, and turning ideas into working systems.
 
-## 🚀 About Me
+Currently I am..
 
-I enjoy working at the intersection of:
-- ⚡ Hardware & software  
-- 🎨 Creativity & engineering  
-- 🧠 Systems thinking & real-world applications  
+📚 Graduated from 42 Core Curriculum while deepening my interest in embedded systems and low-level development.
 
----
+🚀 Looking for an opportunity to join an embedded or robotics team and help ship real hardware.
 
 ## 🛠️ Tech Stack
 

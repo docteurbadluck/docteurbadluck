@@ -1,4 +1,6 @@
-# Hey hi, I'm Théo
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=120000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Theo,+Welcome!;" />
+</p>
 
 👨‍💻 I **started programming** through **electronics** and **experimentation**.
 
@@ -8,25 +10,49 @@
 
 🔧 Along the way, I worked as a **lab assistant**, building prototypes with **microcontrollers**. I enjoy **learning by building** and turning ideas into **working systems**.
 
-## Currently I am...
+<br>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Currently+I+Am:" />
+</p>
 
 📚 Graduated from the **42 Core Curriculum** while deepening my interest in **embedded systems** and **low-level development**.
 
 🚀 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
 
-## 🛠️ Tech Stack
+<br>
 
-**Languages**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-03234B?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Teck+Stack:" />
+</p>
 
-**Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square&logoColor=white)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Languages:" />
+</p>
 
-[![tdeliot's 42 stats](https://badge.mediaplus.ma/darkblue/tdeliot)](https://github.com/oakoudad/badge42)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-03234B?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Tools:" />
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
+![Claude Code](https://img.shields.io/badge/Claude_Code-FF6B35?style=for-the-badge&logoColor=white)
+![Unity Test](https://img.shields.io/badge/Unity_Test-222C37?style=for-the-badge&logo=c&logoColor=white)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Framework:" />
+</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)

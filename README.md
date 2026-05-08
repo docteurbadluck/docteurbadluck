@@ -6,7 +6,7 @@
 
 🔵 While studying **art**, I began prototyping with **microcontrollers**.
 
-🔵 That curiosity eventually led me to **42 Berlin**, where I now explore deeply **C/C++**.
+🔵 That curiosity eventually led me to **42 Berlin**, where I explored deeply **C/C++**.
 
 🔵 Along the way, by myself and as **lab assistant**, I enjoyed **learning by building**.
 

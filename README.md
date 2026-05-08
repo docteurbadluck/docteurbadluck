@@ -4,11 +4,11 @@
 
 🔵 I **started programming** through **electronics** and **experimentation**.
 
-🔵 While studying **art**, I began prototyping with **microcontrollers** and quickly became fascinated by the intersection between **creativity, hardware, and software**.
+🔵 While studying **art**, I began prototyping with **microcontrollers**.
 
-🔵 That curiosity eventually led me to **42 Berlin**, where I now build projects in **C/C++**, learn **systems programming**, and develop software with a strong **hands-on approach**.
+🔵 That curiosity eventually led me to **42 Berlin**, where I now explore deeply **C/C++**.
 
-🔵 Along the way, I worked as a **lab assistant**, building prototypes with **microcontrollers**. I enjoy **learning by building** and turning ideas into **working systems**.
+🔵 Along the way, by myself and as **lab assistant**, I enjoyed **learning by building**.
 
 <br>
 

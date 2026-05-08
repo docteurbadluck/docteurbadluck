@@ -16,9 +16,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100000&color=58A6FF&center=false&vCenter=true&width=500&lines=Currently+I+Am:" />
 </p>
 
-🟠 Graduated from the **42 Core Curriculum** while deepening my interest in **embedded systems** and **low-level development**.
+🟠 Graduated from the **42 Core Curriculum**.
 
-🟤 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
+🟠 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
 
 <br>
 

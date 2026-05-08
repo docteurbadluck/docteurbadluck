@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=120000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Theo,+Welcome!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=120000&color=FF8C42&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Theo,+Welcome!;" />
 </p>
 
 🔵 I **started programming** through **electronics** and **experimentation**.

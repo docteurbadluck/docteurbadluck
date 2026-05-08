@@ -18,7 +18,7 @@
 
 🟠 Graduated from the **42 Core Curriculum** while deepening my interest in **embedded systems** and **low-level development**.
 
-🟠 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
+🟤 Looking for an opportunity to join an **embedded systems** or **robotics** team and help ship **real hardware**.
 
 <br>
 

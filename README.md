@@ -6,7 +6,7 @@
 
 ⚡ That curiosity eventually led me to **42 Berlin**, where I now build projects in **C/C++**, learn **systems programming**, and develop software with a strong **hands-on approach**.
 
-🔧 Along the way, I worked as a **lab assistant**, building prototypes with **microcontrollers**. I enjoy **solving technical problems**, **learning by building**, and turning ideas into **working systems**.
+🔧 Along the way, I worked as a **lab assistant**, building prototypes with **microcontrollers**. I enjoy **learning by building** and turning ideas into **working systems**.
 
 ## Currently I am...
 
